@@ -9,7 +9,7 @@ Master student Computational Science at the University of Amsterdam.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-- Frameworks
+- :bookmark_tabs: &nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 
