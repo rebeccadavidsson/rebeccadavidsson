@@ -22,7 +22,7 @@ Master student Computational Science at the University of Amsterdam.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeccadavidsson&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
  </p>
 
-![Visual Studio Code](stats.png)
+![Visual Studio Code](newstats.png)
 
 Stats by [https://profile-summary-for-github.com/user](https://profile-summary-for-github.com/user)
 
